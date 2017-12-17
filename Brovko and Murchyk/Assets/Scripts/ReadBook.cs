@@ -7,7 +7,7 @@ public class ReadBook : MonoBehaviour {
 		switch (book) {
 		default:
 		case(0): 
-			Application.OpenURL ("https://drive.google.com/file/d/10qD9k1eLAQtrl-mnfAEMfyuaIncO3nGJ/view?usp=sharing");
+			Application.OpenURL ("https://drive.google.com/file/d/1uCTQVSd9g_3mjg5WN17-d30ygX1ct8AD/view");
 			break;
 		case (1):
 			Application.OpenURL ("https://drive.google.com/file/d/1H20m0-pKRcTUuL_k0-qPzJzviId2-KNb/view?usp=sharing");
